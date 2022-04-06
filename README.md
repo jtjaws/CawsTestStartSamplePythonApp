@@ -1,2 +1,7 @@
 # CawsTestStartSamplePythonApp
-Sample repository to test python
+
+## Setup
+`./setup.sh`
+
+## How to trigger tests
+`./trigger_tests.sh`
