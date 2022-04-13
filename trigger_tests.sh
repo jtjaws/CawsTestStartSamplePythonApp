@@ -1,3 +1,3 @@
-coverage run --source=src/. -m pytest
+coverage run --source=src/. -m pytest --ignore=tests/integration/ --junitxml=output/tests/unit/test_report.xml
 coverage report
-coverage html
+coverage xml -o code_coverage.xml
