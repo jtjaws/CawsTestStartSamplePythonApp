@@ -7,6 +7,8 @@ def minus(number_one, number_two):
 
 
 def divide(number_one, number_two):
+    if number_two == 0:
+        return 0
     return number_one / number_two
 
 
