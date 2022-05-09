@@ -18,7 +18,7 @@ def test_divide():
 
 def test_divide_with_zero():
     answer = divide(4, 0)
-    assert answer == float('inf')
+    assert answer == 0
 
 
 def test_multiply():
