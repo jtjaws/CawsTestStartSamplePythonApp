@@ -1,4 +1,4 @@
-# CawsTestStartSamplePythonApp
+# CAWS-Test-Quest
 
 ## Setup
 `./setup.sh`
